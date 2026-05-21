@@ -19,7 +19,7 @@ Vous pouvez utiliser un IDE comme VSCode ou tout simplement un éditeur de texte
 ### Instructions pour installer gcc et ncurses sur Debian, Ubuntu, Linux Mint, etc.
 1. Ouvrez un terminal
 2. Tapez `sudo apt update`, puis Enter
-3. Tapez `sudo apt install build-essential libncursesw5-dev`, puis Enter
+3. Tapez `sudo apt install build-essential libncurses-dev`, puis Enter
 
 ## Ce que nous couvrirons dans l'atelier
 - Concepts et applications de base du C
